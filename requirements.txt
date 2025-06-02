@@ -1,0 +1,13 @@
+# Core requirements
+torch>=2.0
+torchaudio>=2.0
+pandas
+requests
+
+# Optional for training/monitoring/logging
+tqdm  # progress bars
+tensorboard  # for logging training metrics
+
+# Jupyter support (optional)
+ipython
+notebook
